@@ -1,0 +1,3 @@
+To Change directory in Git Bash :
+
+cd /E/Study/Codes
